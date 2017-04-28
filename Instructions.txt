@@ -1,4 +1,4 @@
--Combine avicadeo
+-Combine two avicadeos
 -with onion
 -Add garlic
 -and lime juice
